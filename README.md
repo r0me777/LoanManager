@@ -18,3 +18,15 @@ The **Loan Interest Manager** is a Java-based application that calculates monthl
 
    ```bash
    javac LoanInterestManager.java
+3. **Run the program** after compiling by typing the following command:
+   ```bash
+   java LoanInterestManager
+   ```
+4. **Follow the on-screen prompts** to input loan information:
+   Enter the loan amount in dollars.
+
+   Enter the annual interest rate as a percentage (e.g., 5 for 5%).
+   
+   Enter the loan term in years.
+   
+   Repeat the process to add more loans, or type -1 to stop adding loans and view the summary.
